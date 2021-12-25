@@ -17,3 +17,13 @@ importProducts:
         path: import
         cors: true
         private: false
+
+getProducts:
+  handler: src/handlers/getProducts.handler
+  name: ${self:custom.namePrefix}-get-products-handler
+  events:
+    - http:
+        method: get
+        path: products
+        cors: true
+        private: false

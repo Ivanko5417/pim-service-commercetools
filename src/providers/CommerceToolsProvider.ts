@@ -55,6 +55,11 @@ export class CommerceToolsProvider {
     this.api = apiRoot.withProjectKey({ projectKey });
   }
 
+  async fetchProducts(): Promise<Product[]> {
+    const res = await this.api.products().get().execute();
+    return res.body.results;
+  }
+
   private async fetchProductTypeById(
     productTypeId: string
   ): Promise<ProductType | null> {
