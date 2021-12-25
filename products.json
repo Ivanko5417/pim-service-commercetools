@@ -1,0 +1,79 @@
+[
+  {
+    "name": {
+      "en": "Audi RS1"
+    },
+    "productType": {
+      "id": "c4e1f01d-6071-4991-8544-d3df872aa9f3"
+    },
+    "slug": {
+      "en": "audi-rs1"
+    }
+  },
+  {
+    "name": {
+      "en": "Audi RS2"
+    },
+    "productType": {
+      "id": "c4e1f01d-6071-4991-8544-d3df872aa9f3"
+    },
+    "slug": {
+      "en": "audi-rs2"
+    }
+  },
+  {
+    "name": {
+      "en": "Audi RS3"
+    },
+    "productType": {
+      "id": "c4e1f01d-6071-4991-8544-d3df872aa9f3"
+    },
+    "slug": {
+      "en": "audi-rs3"
+    }
+  },
+  {
+    "name": {
+      "en": "Audi RS4"
+    },
+    "productType": {
+      "id": "c4e1f01d-6071-4991-8544-d3df872aa9f3"
+    },
+    "slug": {
+      "en": "audi-rs4"
+    }
+  },
+  {
+    "name": {
+      "en": "Audi RS5"
+    },
+    "productType": {
+      "id": "c4e1f01d-6071-4991-8544-d3df872aa9f3"
+    },
+    "slug": {
+      "en": "audi-r5"
+    }
+  },
+  {
+    "name": {
+      "en": "Audi RS6"
+    },
+    "productType": {
+      "id": "c4e1f01d-6071-4991-8544-d3df872aa9f3"
+    },
+    "slug": {
+      "en": "audi-rs6"
+    }
+  },
+  {
+    "name": {
+      "en": "Audi RS7"
+    },
+    "productType": {
+      "id": "c4e1f01d-6071-4991-8544-d3df872aa9f3"
+    },
+    "slug": {
+      "en": "audi-rs7"
+    }
+  }
+]

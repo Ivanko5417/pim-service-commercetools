@@ -6,4 +6,14 @@ createOrUpdateProduct:
         method: post
         path: products
         cors: true
-        private: true
+        private: false
+
+importProducts:
+  handler: src/handlers/importProducts.handler
+  name: ${self:custom.namePrefix}-import-products-handler
+  events:
+    - http:
+        method: post
+        path: import
+        cors: true
+        private: false
