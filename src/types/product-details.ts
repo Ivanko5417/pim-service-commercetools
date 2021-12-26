@@ -1,8 +1,11 @@
+import { ProductVariantDraft } from '@commercetools/typescript-sdk/dist/typings/generated/models/product';
+
 export type ProductDetails =
   | {
       name: { en: string };
       productType: ProductTypeDetails | ProductTypeDetailsDraft;
       slug: { en: string };
+      variants: ProductVariantDraft[];
     }
   | {
       id: string;

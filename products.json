@@ -8,7 +8,21 @@
     },
     "slug": {
       "en": "audi-rs1"
-    }
+    },
+    "variants": [
+      {
+        "sku": "rs1-black-sku",
+        "key": "rs1-black",
+        "prices": [
+          {
+            "value": {
+              "centAmount": 12700000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      }
+    ]
   },
   {
     "name": {
@@ -19,7 +33,21 @@
     },
     "slug": {
       "en": "audi-rs2"
-    }
+    },
+    "variants": [
+      {
+        "sku": "rs2-black-sku",
+        "key": "rs2-black",
+        "prices": [
+          {
+            "value": {
+              "centAmount": 14400000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      }
+    ]
   },
   {
     "name": {
@@ -30,7 +58,21 @@
     },
     "slug": {
       "en": "audi-rs3"
-    }
+    },
+    "variants": [
+      {
+        "sku": "rs3-black-sku",
+        "key": "rs3-black",
+        "prices": [
+          {
+            "value": {
+              "centAmount": 15000000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      }
+    ]
   },
   {
     "name": {
@@ -41,7 +83,21 @@
     },
     "slug": {
       "en": "audi-rs4"
-    }
+    },
+    "variants": [
+      {
+        "sku": "rs4-black-sku",
+        "key": "rs4-black",
+        "prices": [
+          {
+            "value": {
+              "centAmount": 17600000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      }
+    ]
   },
   {
     "name": {
@@ -52,7 +108,21 @@
     },
     "slug": {
       "en": "audi-r5"
-    }
+    },
+    "variants": [
+      {
+        "sku": "rs5-black-sku",
+        "key": "rs5-black",
+        "prices": [
+          {
+            "value": {
+              "centAmount": 20000000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      }
+    ]
   },
   {
     "name": {
@@ -63,7 +133,21 @@
     },
     "slug": {
       "en": "audi-rs6"
-    }
+    },
+    "variants": [
+      {
+        "sku": "rs6-black-sku",
+        "key": "rs6-black",
+        "prices": [
+          {
+            "value": {
+              "centAmount": 25000000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      }
+    ]
   },
   {
     "name": {
@@ -74,6 +158,20 @@
     },
     "slug": {
       "en": "audi-rs7"
-    }
+    },
+    "variants": [
+      {
+        "sku": "rs7-black-sku",
+        "key": "rs7-black",
+        "prices": [
+          {
+            "value": {
+              "centAmount": 26000000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      }
+    ]
   }
 ]

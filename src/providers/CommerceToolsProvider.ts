@@ -97,6 +97,7 @@ export class CommerceToolsProvider {
             name: productDetails.name,
             productType: { typeId: 'product-type', id: productTypeId },
             slug: productDetails.slug,
+            variants: productDetails.variants,
           },
         })
         .execute();
